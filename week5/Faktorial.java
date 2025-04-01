@@ -20,3 +20,5 @@ public class Faktorial {
         scanner.close();
     }
 }
+
+

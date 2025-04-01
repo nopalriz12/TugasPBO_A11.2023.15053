@@ -23,3 +23,4 @@ public class Mainquiz {
         scanner.close();
     }
 }
+
